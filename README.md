@@ -61,4 +61,4 @@ This project provides actionable insights for:
 ## How to Use
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/ola-data-analyst-project.git
+   git clone https://github.com/MohdYusufKhan26/ola-data-analyst-project.git
