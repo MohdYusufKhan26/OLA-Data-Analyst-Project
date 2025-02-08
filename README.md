@@ -34,6 +34,8 @@ Using SQL queries, we extracted and analyzed the following insights:
 7. Average customer rating per vehicle type.
 
 ## Power BI Dashboards
+![Screenshot 2025-02-09 002859](https://github.com/user-attachments/assets/af54580e-937f-4b0f-a141-629ff2479c2f)
+
 The insights were visualized in Power BI for better understanding and actionable takeaways:
 1. **Ride Volume Over Time**: A time-series chart showing daily and weekly ride volumes.
 2. **Booking Status Breakdown**: A pie chart illustrating the proportion of booking statuses (successful, canceled, incomplete).
